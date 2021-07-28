@@ -41,6 +41,7 @@ div.colorChoice > button {
     font-size: 16px;
     margin: 5px 2px;
     padding: 9px 44px;
+    border-radius: 15px;
 }
 
 div.colorChoice > button:hover {
@@ -58,6 +59,7 @@ div.clearBtn > button {
     font-size: 16px;
     margin: 5px 2px;
     padding: 9px 44px;
+    border-radius: 15px;
 }
 
 div.clearBtn > button:hover {
